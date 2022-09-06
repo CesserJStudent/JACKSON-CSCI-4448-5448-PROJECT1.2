@@ -1,0 +1,138 @@
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+4
+[4.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5
+[4.0, 5.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+3
+[4.0, 5.0, 3.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+2
+[4.0, 5.0, 3.0, 2.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+8
+[4.0, 5.0, 3.0, 2.0, 8.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+9
+[4.0, 5.0, 3.0, 2.0, 8.0, 9.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5
+[4.0, 5.0, 3.0, 2.0, 8.0, 9.0, 5.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+6
+[4.0, 5.0, 3.0, 2.0, 8.0, 9.0, 5.0, 6.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+
+The median of the list is: 5.0
+The mean of the list is: 5.25
+The mode of the list is: [5.0]
+The variance of the list is: 5.642857142857143
+The standard deviation of the list is: 2.3754698783308417
+The minimum value of the list is: 2.0
+The maximum value of the list is: 9.0
+The maximum occurrences of the list is: [[5.0], 2]
+
+
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5.4
+[5.4]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5.43
+[5.4, 5.43]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5.6
+[5.4, 5.43, 5.6]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+3.6
+[5.4, 5.43, 5.6, 3.6]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+4.6
+[5.4, 5.43, 5.6, 3.6, 4.6]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+3.6
+[5.4, 5.43, 5.6, 3.6, 4.6, 3.6]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+9.8
+[5.4, 5.43, 5.6, 3.6, 4.6, 3.6, 9.8]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+
+The median of the list is: 5.4
+The mean of the list is: 5.432857142857143
+The mode of the list is: [3.6]
+The variance of the list is: 4.4188904761904775
+The standard deviation of the list is: 2.1021157142722844
+The minimum value of the list is: 3.6
+The maximum value of the list is: 9.8
+The maximum occurrences of the list is: [[3.6], 2]
+
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5
+[5.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+6
+[5.0, 6.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+7
+[5.0, 6.0, 7.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+7
+[5.0, 6.0, 7.0, 7.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5
+[5.0, 6.0, 7.0, 7.0, 5.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+6
+[5.0, 6.0, 7.0, 7.0, 5.0, 6.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+9
+[5.0, 6.0, 7.0, 7.0, 5.0, 6.0, 9.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+8
+[5.0, 6.0, 7.0, 7.0, 5.0, 6.0, 9.0, 8.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+3
+[5.0, 6.0, 7.0, 7.0, 5.0, 6.0, 9.0, 8.0, 3.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+
+The median of the list is: 6.0
+The mean of the list is: 6.222222222222222
+The mode of the list is: [5.0, 6.0, 7.0]
+The variance of the list is: 3.1944444444444446
+The standard deviation of the list is: 1.7873008824606016
+The minimum value of the list is: 3.0
+The maximum value of the list is: 9.0
+The maximum occurrences of the list is: [[5.0, 6.0, 7.0], 2]
+
+
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+3.4
+[3.4]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5.4
+[3.4, 5.4]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+3.4
+[3.4, 5.4, 3.4]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+5.4
+[3.4, 5.4, 3.4, 5.4]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+6
+[3.4, 5.4, 3.4, 5.4, 6.0]
+Enter a real or integer value. If no value is entered calculations will be preformed on all previously entered numbers.
+
+The median of the list is: 5.4
+The mean of the list is: 4.720000000000001
+The mode of the list is: [3.4, 5.4]
+The variance of the list is: 1.5120000000000002
+The standard deviation of the list is: 1.2296340919151518
+The minimum value of the list is: 3.4
+The maximum value of the list is: 6.0
+The maximum occurrences of the list is: [[3.4, 5.4], 2]
+
+
+
+
+
+
