@@ -1,0 +1,61 @@
+Press enter to read string from console
+bruce
+String after clean is: BRUCE
+String after sort is: BCERU
+The final String is: URECBCERU
+Press enter to read string from console
+B R U C E
+String after clean is: BRUCE
+String after sort is: BCERU
+The final String is: URECBCERU
+Press enter to read string from console
+b r U c e
+String after clean is: BRUCE
+String after sort is: BCERU
+The final String is: URECBCERU
+Press enter to read string from console
+
+
+Process finished with exit code 0
+
+Press enter to read string from console
+Cesser Jackson
+String after clean is: CESSERJACKSON
+String after sort is: ACCEEJKNORSSS
+The final String is: SSSRONKJEECCACCEEJKNORSSS
+Press enter to read string from console
+cesser jackson
+String after clean is: CESSERJACKSON
+String after sort is: ACCEEJKNORSSS
+The final String is: SSSRONKJEECCACCEEJKNORSSS
+Press enter to read string from console
+cesserjackson
+String after clean is: CESSERJACKSON
+String after sort is: ACCEEJKNORSSS
+The final String is: SSSRONKJEECCACCEEJKNORSSS
+Press enter to read string from console
+
+
+Process finished with exit code 0
+
+
+Press enter to read string from console
+gfdgdfdfgd
+String after clean is: GFDGDFDFGD
+String after sort is: DDDDFFFGGG
+The final String is: GGGFFFDDDDDDDFFFGGG
+Press enter to read string from console
+DFAxcgfdf
+String after clean is: DFAXCGFDF
+String after sort is: ACDDFFFGX
+The final String is: XGFFFDDCACDDFFFGX
+Press enter to read string from console
+gfdf
+String after clean is: GFDF
+String after sort is: DFFG
+The final String is: GFFDFFG
+Press enter to read string from console
+
+
+Process finished with exit code 0
+

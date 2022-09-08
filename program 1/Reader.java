@@ -4,7 +4,7 @@ import java.util.Scanner; // import scanner for user input
 public class Reader {
     static ArrayList<Double> numberList = new ArrayList<Double>(); //Create arraylist to store user input as a double as any real number needs to be accepted
 
-    public static ArrayList<Double> read() {
+    public static ArrayList<Double> readData() {
 
         while (true) {
             Scanner userNumbers = new Scanner(System.in); //create scanner object

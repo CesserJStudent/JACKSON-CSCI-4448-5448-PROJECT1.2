@@ -156,7 +156,7 @@ public class Analyzer {
     {
         Reader reader = new Reader(); // new reader
         Analyzer analyzer = new Analyzer();
-        ArrayList data = reader.read(); // read data from the user
+        ArrayList data = reader.readData(); // read data from the user
         analyzer.analyze(data); // perform analyze calculations
     }
 }
